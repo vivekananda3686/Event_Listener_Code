@@ -1,0 +1,49 @@
+/* Write your CSS here */
+
+.main-container {
+  background-color: yellow;
+  padding: 30px;
+}
+
+.card-container {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.heading {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.image1 {
+  height: 50%;
+  width: 50%;
+  margin: 10px;
+}
+
+.button {
+  background-color: blue;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 0px;
+}
+
+.container1 {
+  text-align: center;
+}
+
+.span {
+  color: orange;
+}
